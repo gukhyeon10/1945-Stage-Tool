@@ -1,0 +1,36 @@
+﻿  stdafx.cpp
+  1945.cpp
+  Bullet_Manager.cpp
+Bullet_Manager.cpp(60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CEnemy_Manager.cpp
+CEnemy_Manager.cpp(107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CEnemy_Manager.cpp(124): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CEnemy_Manager.cpp(125): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CEnemy_Manager.cpp(197): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CEnemy_Manager.cpp(198): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CEnemy_Manager.cpp(199): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CEnemy_Manager.cpp(200): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CEnemy_Manager.cpp(204): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  Cursor.cpp
+  Pattern.cpp
+Pattern.cpp(106): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Pattern.cpp(213): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+Pattern.cpp(214): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+Pattern.cpp(232): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Pattern.cpp(233): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Pattern.cpp(241): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Pattern.cpp(242): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Pattern.cpp(262): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Pattern.cpp(277): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+Pattern.cpp(278): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+Pattern.cpp(281): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+Pattern.cpp(282): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+Pattern.cpp(301): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Play.cpp
+Play.cpp(50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Set.cpp
+  tinyxml2.cpp
+  코드를 생성하고 있습니다.
+  All 715 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  1945.vcxproj -> C:\Users\JoGukHyoun\Documents\Visual Studio 2017\Projects\1945_design(파싱)\Release\1945.exe
